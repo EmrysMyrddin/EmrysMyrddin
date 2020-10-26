@@ -1,31 +1,20 @@
 ### Hi there 👋
 
-<!--
-**EmrysMyrddin/EmrysMyrddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate fullstack developper, weird and unknown tech lover
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a pationate fullstack developper, weird and unkonwn tech lover
-
-- 🔭 I’m currently working on https://github.com/cuillerejs/cuillere and https://github.com/EmrysMyrddin/foodex !
+- 🔭 I am currently working on https://github.com/cuillerejs/cuillere and https://github.com/EmrysMyrddin/foodex !
 
 #### My Open Source projects
 
  - https://github.com/cuillerejs/cuillere: cuillere is an extensible asynchronous execution framework for NodeJS based on generator functions. (NodeJs, TypeScript)
- - https://github.com/EmrysMyrddin/foodex: foodex is cookbook recipe collection web application. (Svelte, Hasura)
+ - https://github.com/EmrysMyrddin/foodex: foodex is cookbook web application. (Svelte, Hasura)
  - https://github.com/Zenika/marcel: marcel is a configurable plugin based dashboard system. (React, Go, Svelte)
 
 #### My games
 
-I'm making some gamejams when I have time for it. (Caution, this games are mad in 48h, repos are dirty !)
+When I have time for it, I participate to some game jams (mainly Global Game Jam)
+
+_Caution, these games are made in 48h, repos are dirty !_
 
  - https://github.com/alphasepard/CosmicMecano
  - https://github.com/Bugsyaya/UntilTomorrow
@@ -34,7 +23,7 @@ I'm making some gamejams when I have time for it. (Caution, this games are mad i
  
 #### My contributions
 
-Here is a list of project that I love and I had the opportunity to contribute.
+Here is a list of project that I love and I had the opportunity to contribute to.
 
  - https://github.com/EmrysMyrddin/kaamelott-soundboard
  - https://github.com/EmrysMyrddin/react-admin
