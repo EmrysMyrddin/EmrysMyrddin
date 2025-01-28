@@ -6,9 +6,9 @@ I'm a passionate fullstack developper, weird and unknown tech lover
 
 #### My Open Source projects
 
- - https://github.com/cuillerejs/cuillere: cuillere is an extensible asynchronous execution framework for NodeJS based on generator functions. (NodeJs, TypeScript)
  - https://github.com/EmrysMyrddin/foodex: foodex is cookbook web application. (Svelte, Hasura)
- - https://github.com/Zenika/marcel: marcel is a configurable plugin based dashboard system. (React, Go, Svelte)
+ - https://github.com/cuillerejs/cuillere: cuillere is an extensible asynchronous execution framework for NodeJS based on generator functions. (NodeJs, TypeScript) 🗃️ Archived
+ - https://github.com/Zenika/marcel: marcel is a configurable plugin based dashboard system. (React, Go, Svelte) 🗃️ Archived
 
 #### My games
 
